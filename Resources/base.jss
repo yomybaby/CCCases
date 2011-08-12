@@ -1,5 +1,4 @@
 window {
-/*	barColor:#2A2623;*/
 	backgroundColor :#000;
 }
 

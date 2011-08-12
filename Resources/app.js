@@ -1,16 +1,8 @@
-/** ****************************************
- * Author : JongEun Lee (http://yomybaby.wordpress.com)
- * Some Right Reserved
- * under Creative Commons License ( BY )
- ****************************************** */
-
 Titanium.include('XeRssTableView.js');
-
-
 
 var tabGroup = Ti.UI.createTabGroup();
 
-//CC 소식
+//CC Korea News
 var ccNewsWin = Ti.UI.createWindow({ title:L('ccNewsTab'), backgroundColor:'#fff'});
 ccNewsWin.add(
 	new XeRssTableView({rssUrl:"http://www.cckorea.org/xe/?mid=news&act=rss",openTarget:tabGroup})
@@ -22,7 +14,7 @@ var ccNewsTab = Ti.UI.createTab({
     //badge:Ti.App.Properties.getInt("ccNews")
 });
 
-//국내 사례
+//Korea Case
 var caseWin = Ti.UI.createWindow({ title:L('koreaCase'), backgroundColor:'#fff'});
 var tb1 = Titanium.UI.createTabbedBar({
 	labels:[L('koreaCase'), L('globalCase'),L('meshupCase')],
