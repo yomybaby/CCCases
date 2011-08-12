@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ccNewsTab">CC 소식</string>
+    <string name="ccCaseTab">CC 사례</string>
+    <string name="favoriteTab">즐겨찾기</string>
+    <string name="aboutCcTab">about CC</string>
+    <string name="favoriteMessage">글을 볼 때 화면 아래 툴바의 '☆'를 눌러 즐겨찾기 설정 해놓으면 오프라인에서도 해당 글을 볼수 있습니다.</string>
+    <string name="koreaCase">CC국내사례</string>
+    <string name="globalCase">CC해외사례</string>
+    <string name="meshupCase">CC활용사례</string>
+    
+    <string name="loading">로딩중...</string>
+    <string name="moreArticle">더 보기..</string>
+    
+    <string name="alert">알림</string>
+    <string name="requestFail">데이터 가져오기가 실패했습니다.\n인터넷 연결을 확인 하시거나 잠시후 다시 시도해주세요.</string>
+    <string name="nomoreArticle">모든 글이 로딩되었습니다.</string>
+    
+    <string name="pullToRefresh">화면을 아래로 밀면 새로고침 됩니다.</string>
+    <string name="recentUpdate">최근 업데이트</string>
+    <stirng name="releaseToRefresh">손을 놓으면 업데이트 됩니다.</stirng>
+    
+    <string name="sendToTwitter">Twitter로 공유</string>
+    <string name="sendEmail">이메일로 공유</string>
+    <string name="openInSafari">원문 보기(Safari)</string>
+    
+    <string name="cancel">취소</string>
+    <string name="close">닫기</string>
+    <string name="send">전송</string>
+    
+    <string name="emailSendComplete">이메일 전송 완료</string>
+    <string name="emailSendFail">이메일 전송 실패</string>
+    
+    <string name="twitterSendComplete">트위터 전송 완료</string>
+    <string name="twitterSendFail">트위터 전송 실패</string>
+    
+    <string name="preferenece">환경설정</string>
+    <string name="gotoCCKoreaSite">CC Korea 사이트 바로가기</string>
+    <string name="registCCKoreaMembership">CC Korea 회원가입</string>
+    <string name="logoutTwitter">트위터 로그 아웃</string>
+    <string name="logoutTwitterMessage">로그 아웃 되었습니다.\n트위터 연결이 필요할 경우\n다시 로그인 창이 나타납니다.</string>
+</resources>

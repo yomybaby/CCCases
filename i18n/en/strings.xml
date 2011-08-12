@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ccNewsTab">CC News</string>
+    <string name="ccCaseTab">CC Cases</string>
+    <string name="favoriteTab">Favorite</string>
+    <string name="aboutCcTab">about CC</string>
+    <string name="favoriteMessage">Mark article's '☆' for offline read</string>
+    <string name="koreaCase">Korea Cases</string>
+    <string name="globalCase">Global Cases</string>
+    <string name="meshupCase">Mesh up</string>
+    
+    <string name="loading">Loading...</string>
+    <string name="moreArticle">More..</string>
+    
+    <string name="alert">Alert</string>
+    <string name="requestFail">Fail to loading data.\n Please, check internet connection or try later.</string>
+    <string name="nomoreArticle">no more aticle</string>
+    
+    <string name="pullToRefresh">Pull to reload</string>
+    <string name="recentUpdate">Last Updated</string>
+    <stirng name="releaseToRefresh">Release to refresh...</stirng>
+    
+    <string name="sendToTwitter">Twitter</string>
+    <string name="sendEmail">E-mail</string>
+    <string name="openInSafari">Open in Safari</string>
+    
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="send">Send</string>
+    
+    <string name="emailSendComplete">Successs</string>
+    <string name="emailSendFail">Fail to send.</string>
+    
+    <string name="twitterSendComplete">Succuess</string>
+    <string name="twitterSendFail">Fail</string>
+    
+    <string name="preferenece">Preferenece</string>
+    <string name="gotoCCKoreaSite">CC Korea Official Homepage</string>
+    <string name="registCCKoreaMembership">Regist CC Korea Membership</string>
+    <string name="logoutTwitter">Twitter logout</string>
+    <string name="logoutTwitterMessage">Success to logout.\nWhen you need connect twitter, Login Window will appear.</string>
+</resources>
