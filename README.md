@@ -16,9 +16,9 @@ This app uses Twitter API and bitly API. Please, input your key on 'config.js'
 
 To Do
 =====
-support android.(change alternative UI component for Android.)
-support iPad (with spilt view)
-can define RSS model.
+* support android.(change alternative UI component for Android.)
+* support iPad (with spilt view)
+* can define RSS model.
 
 Caution
 =======
